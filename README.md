@@ -24,11 +24,3 @@ Bu formül, iki boyutlu uzaydaki (x1, y1) ve (x2, y2) noktaları arasındaki mes
 
 ## 🧠 Hesaplama Mantığı
 Program, her iki boyutlu nokta çifti arasındaki x ve y koordinatlarındaki farkları hesaplar ve bu farkları kullanarak Öklid mesafesini bulur. Bu mesafeler bir listeye eklenir ve ardından en küçük mesafe bulunur.
-
-## 👍 Kullanıcı Deneyimi
-Program, kullanıcıların 2D uzaydaki noktalar arasındaki en kısa mesafeyi kolayca bulmalarını sağlar. Kod, hem yeni başlayanlar hem de ileri seviye Python kullanıcıları için anlaşılır bir yapıya sahiptir.
-
-## 📂 Dosya Yapısı
-- `euclidean_distance.py` - Ana Python kod dosyası.
-- `README.md` - Bu dosya, programın ne işe yaradığını ve nasıl çalıştığını açıklar.
-
