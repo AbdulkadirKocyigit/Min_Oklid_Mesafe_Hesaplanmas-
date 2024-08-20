@@ -1,1 +1,1 @@
-# Min_Oklid_Mesafe_Hesaplanmas-
+# Min_Oklid_Mesafe_Hesaplanması-
