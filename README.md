@@ -1,0 +1,1 @@
+# Min_Oklid_Mesafe_Hesaplanmas-
